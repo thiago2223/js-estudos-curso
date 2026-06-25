@@ -1,0 +1,1 @@
+let informacoesColega = ['caio', 13, 'maceio']
