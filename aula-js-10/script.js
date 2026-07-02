@@ -31,3 +31,12 @@ for (let i = 0; i <= 5; i++) { //numeros impares entre 0 e 5
         console.log(i);
     };
 };
+//while
+let ii = 5;
+while (ii >= 1) {
+    if (ii % 2 !== 0) {
+        console.log(ii);
+    };
+    ii--;
+}
+//do while
