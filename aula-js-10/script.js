@@ -53,7 +53,7 @@ const pessoa = {
 };
 for (let key in pessoa) {
     console.log(key, pessoa[key]); //posso usar o proprio key pra expor as propriedades do objeto pessoa.
-};
+};-
 const cores = ['vermelho', 'azul', 'verde'];
 for (let indice in cores) {
     console.log(indice, cores[indice]);
